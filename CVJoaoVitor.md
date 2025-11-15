@@ -84,7 +84,7 @@ Java, Kotlin, TypeScript, JavaScript
 Spring Boot, Spring Cloud, Spring Data, Spring Batch, React, React Native, Node.js, NestJS, AngularJS  
 
 **Databases:**  
-PostgreSQL, MySQL, Oracle, MongoDB  
+PostgreSQL, MySQL, Oracle, Mogit initngoDB  
 
 **Messaging & Integration:**  
 Kafka, Kafka Connect, RabbitMQ  
